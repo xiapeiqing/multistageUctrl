@@ -9,3 +9,5 @@ The flight controller, controlling two motors, governs the elevation angle and a
 
 Inter-segment connection is a free-rotationing gimbal connector. A Kinect sensor is barely enough to operate the system shown in the picture.
 
+https://youtu.be/IG2OPOJMO9E
+
